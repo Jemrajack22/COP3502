@@ -1,2 +1,2 @@
-# lab_assignment_5.c
+# labAssignment_5
 Spring2024COP3502
